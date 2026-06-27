@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Upstream project issue tracker
-    url: https://github.com/
+  - name: microsoft/markitdown issue tracker
+    url: https://github.com/microsoft/markitdown/issues
     about: Use the upstream repository for product bugs that are not caused by this pack.
-  - name: Doramagic
-    url: https://doramagic.ai/
-    about: Learn more about Doramagic project resource packs.
+  - name: Doramagic project page
+    url: https://doramagic.ai/en/projects/markitdown/
+    about: Read the structured manual and project resource page for this pack.
