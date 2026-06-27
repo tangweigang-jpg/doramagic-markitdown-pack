@@ -1,5 +1,5 @@
 name: Usage question
-description: Ask how to load or run this Doramagic pack.
+description: Ask how to load or run this AI context pack.
 title: "[Question]: "
 labels:
   - question
@@ -8,7 +8,7 @@ body:
     id: host
     attributes:
       label: AI coding host
-      description: Claude Code, Codex, Cursor, Windsurf, or another host.
+      description: Claude Code, Codex, Cursor, Windsurf, Aider, or another host.
     validations:
       required: true
   - type: textarea
