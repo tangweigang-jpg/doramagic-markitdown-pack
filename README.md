@@ -1,4 +1,4 @@
-# markitdown Doramagic Pack for AI Coding Agents
+# MarkItDown AI Context Pack for Claude Code, Codex, Cursor, and Aider
 
 Pack version: `v1.0.0` · Last updated: `2026-06-27`
 
@@ -26,6 +26,7 @@ Quick links:
 ## When This Helps
 
 Use this pack when you want an AI coding agent to understand the upstream project context, setup boundaries, common pitfalls, and verification steps before it edits files, installs dependencies, or claims the tool is ready.
+
 
 ## What You Get
 
