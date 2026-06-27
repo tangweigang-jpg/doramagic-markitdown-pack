@@ -1,0 +1,27 @@
+name: Bug report
+description: Report a problem with this Doramagic pack.
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Describe the pack behavior that failed.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: What should the pack or agent have done instead?
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Paste eval output, host logs, or relevant screenshots if available.
+    validations:
+      required: false

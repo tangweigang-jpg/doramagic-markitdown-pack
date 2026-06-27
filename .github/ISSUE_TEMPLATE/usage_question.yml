@@ -1,0 +1,27 @@
+name: Usage question
+description: Ask how to load or run this Doramagic pack.
+title: "[Question]: "
+labels:
+  - question
+body:
+  - type: input
+    id: host
+    attributes:
+      label: AI coding host
+      description: Claude Code, Codex, Cursor, Windsurf, or another host.
+    validations:
+      required: true
+  - type: textarea
+    id: goal
+    attributes:
+      label: What are you trying to do?
+      description: Describe the workflow you want this pack to support.
+    validations:
+      required: true
+  - type: textarea
+    id: attempted
+    attributes:
+      label: What have you tried?
+      description: Mention whether you copied AGENTS.md / CLAUDE.md and ran any evals.
+    validations:
+      required: false

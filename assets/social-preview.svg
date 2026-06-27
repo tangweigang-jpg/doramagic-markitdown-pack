@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-label="markitdown Doramagic Pack social preview">
+  <rect width="1280" height="640" fill="#0f172a"/>
+  <rect x="72" y="72" width="1136" height="496" rx="24" fill="#111827" stroke="#38bdf8" stroke-width="3"/>
+  <text x="112" y="160" fill="#38bdf8" font-family="Arial, sans-serif" font-size="34" font-weight="700">Doramagic Capability Pack</text>
+  <text x="112" y="245" fill="#f8fafc" font-family="Arial, sans-serif" font-size="58" font-weight="700">markitdown Doramagic Pack</text>
+  <text x="112" y="320" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="31">Copy host instructions. Run evals. Recover from pitfalls.</text>
+  <text x="112" y="405" fill="#e2e8f0" font-family="Arial, sans-serif" font-size="29">AGENTS.md · CLAUDE.md · Evals · Pitfall Recovery</text>
+  <text x="112" y="500" fill="#94a3b8" font-family="Arial, sans-serif" font-size="26">Independent pack · not affiliated with upstream unless explicitly stated</text>
+</svg>

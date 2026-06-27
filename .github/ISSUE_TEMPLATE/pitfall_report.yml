@@ -1,0 +1,27 @@
+name: Pitfall report
+description: Report a setup, runtime, permission, or recovery pitfall.
+title: "[Pitfall]: "
+labels:
+  - pitfall
+body:
+  - type: textarea
+    id: symptom
+    attributes:
+      label: Symptom
+      description: What failed, and how did it appear?
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Host, OS, Node version, browser, MCP config, or other relevant setup details.
+    validations:
+      required: true
+  - type: textarea
+    id: recovery
+    attributes:
+      label: Recovery attempted
+      description: Which item in 03_PITFALL_LOG.md did you try, and what happened?
+    validations:
+      required: false
